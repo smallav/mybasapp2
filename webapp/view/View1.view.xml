@@ -1,0 +1,10 @@
+<mvc:View controllerName="mybasapp1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns ="sap.m" 	xmlns:t="sap.ui.table">
+    <Page id="page" title="{i18n>title}">
+        <content >
+        <Button id="btn" text="Table Data" press="onButtonPress"></Button>
+        <t:Table id="table" visible="false">
+			</t:Table>
+            </content>
+    </Page>
+</mvc:View>

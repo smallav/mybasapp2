@@ -1,0 +1,244 @@
+{
+	"ProductCollection" : [
+	{
+		"ProductId": "HT-1001",
+		"Category": "LT",
+		"MainCategory": "Computer Systems",
+		"SupplierName": "Very Best Screens",
+		"Weight": "4.5",
+		"WeightUnit": "KG",
+		"ShortDescription": "Notebook Basic 17 with 2,80 GHz quad core, 17\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+		"Name": "Notebook Basic 17"
+	},
+	{
+		"ProductId": "HT-1002",
+		"Category": "LT",
+		"MainCategory": "Computer Systems",
+		"SupplierName": "Very Best Screens",
+		"Weight": "4.2",
+		"WeightUnit": "KG",
+		"ShortDescription": "Notebook Basic 18 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+		"Name": "Notebook Basic 18"
+	},
+	{
+		"ProductId": "HT-1003",
+		"Category": "LT",
+		"MainCategory": "Computer Systems",
+		"SupplierName": "Smartcards",
+		"Weight": "4.2",
+		"WeightUnit": "KG",
+		"ShortDescription": "Notebook Basic 19 with 2,80 GHz quad core, 19\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro",
+		"Name": "Notebook Basic 19"
+	},
+	{
+		"ProductId": "HT-1007",
+		"Category": "AC",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Technocom",
+		"Weight": "0.2",
+		"WeightUnit": "KG",
+		"ShortDescription": "Digital Organizer with State-of-the-Art Storage Encryption",
+		"Name": "ITelO Vault"
+	},
+	{
+		"ProductId": "HT-1010",
+		"Category": "AC",
+		"MainCategory": "Computer Systems",
+		"SupplierName": "Very Best Screens",
+		"Weight": "4.3",
+		"WeightUnit": "KG",
+		"ShortDescription": "Notebook Professional 15 with 2,80 GHz quad core, 15\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro",
+		"Name": "Notebook Professional 15"
+	},
+	{
+		"ProductId": "HT-1011",
+		"Category": "LT",
+		"MainCategory": "Computer Systems",
+		"SupplierName": "Very Best Screens",
+		"Weight": "4.1",
+		"WeightUnit": "KG",
+		"ShortDescription": "Notebook Professional 17 with 2,80 GHz quad core, 17\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro",
+		"Name": "Notebook Professional 17"
+	},
+	{
+		"ProductId": "HT-1020",
+		"Category": "AC",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Technocom",
+		"Weight": "0.16",
+		"WeightUnit": "KG",
+		"ShortDescription": "Digital Organizer with State-of-the-Art Encryption for Storage and Network Communications",
+		"Name": "ITelO Vault Net"
+	},
+	{
+		"ProductId": "HT-1021",
+		"Category": "AC",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Technocom",
+		"Weight": "0.18",
+		"WeightUnit": "KG",
+		"ShortDescription": "Digital Organizer with State-of-the-Art Encryption for Storage and Secure Stellite Link",
+		"Name": "ITelO Vault SAT"
+	},
+	{
+		"ProductId": "HT-1022",
+		"Category": "AC",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Technocom",
+		"Weight": "0.2",
+		"WeightUnit": "KG",
+		"ShortDescription": "32 GB Digital Assistant with high-resolution color screen",
+		"Name": "Comfort Easy"
+	},
+	{
+		"ProductId": "HT-1023",
+		"Category": "AC",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Technocom",
+		"Weight": "0.8",
+		"WeightUnit": "KG",
+		"ShortDescription": "64 GB Digital Assistant with high-resolution color screen and synthesized voice output",
+		"Name": "Comfort Senior"
+	},
+	{
+		"ProductId": "HT-1030",
+		"Category": "FT",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Very Best Screens",
+		"Weight": "21",
+		"WeightUnit": "KG",
+		"ShortDescription": "Optimum Hi-Resolution max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm",
+		"Name": "Ergo Screen E-I"
+	},
+	{
+		"ProductId": "HT-1031",
+		"Category": "FT",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Very Best Screens",
+		"Weight": "21",
+		"WeightUnit": "KG",
+		"ShortDescription": "Optimum Hi-Resolution max. 1920 x 1200 @ 85Hz, Dot Pitch: 0.26mm",
+		"Name": "Ergo Screen E-II"
+	},
+	{
+		"ProductId": "HT-1032",
+		"Category": "FT",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Very Best Screens",
+		"Weight": "21",
+		"WeightUnit": "KG",
+		"ShortDescription": "Optimum Hi-Resolution max. 2560 x 1440 @ 85Hz, Dot Pitch: 0.25mm",
+		"Name": "Ergo Screen E-III"
+	},
+	{
+		"ProductId": "HT-1035",
+		"Category": "FT",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Very Best Screens",
+		"Weight": "14",
+		"WeightUnit": "KG",
+		"ShortDescription": "Optimum Hi-Resolution max. 1600 x 1200 @ 85Hz, Dot Pitch: 0.24mm",
+		"Name": "Flat Basic"
+	},
+	{
+		"ProductId": "HT-1036",
+		"Category": "FT",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Very Best Screens",
+		"Weight": "15",
+		"WeightUnit": "KG",
+		"ShortDescription": "Optimum Hi-Resolution max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.26mm",
+		"Name": "Flat Future"
+	},
+	{
+		"ProductId": "HT-1037",
+		"Category": "FT",
+		"MainCategory": "Computer Components",
+		"SupplierName": "Very Best Screens",
+		"Weight": "17",
+		"WeightUnit": "KG",
+		"ShortDescription": "Optimum Hi-Resolution max. 2016 x 1512 @ 85Hz, Dot Pitch: 0.24mm",
+		"Name": "Flat XL"
+	},
+	{
+		"ProductId": "HT-1040",
+		"Category": "PR",
+		"MainCategory": "SC",
+		"SupplierName": "Alpha Printers",
+		"Weight": "32",
+		"WeightUnit": "KG",
+		"ShortDescription": "Print 2400 dpi image quality color documents at speeds of up to 32 ppm (color) or 36 ppm (monochrome), letter/A4. Powerful 500 MHz processor, 512MB of memory",
+		"Name": "Laser Professional Eco"
+	},
+	{
+		"ProductId": "HT-1041",
+		"Category": "PR",
+		"MainCategory": "SC",
+		"SupplierName": "Alpha Printers",
+		"Weight": "23",
+		"WeightUnit": "KG",
+		"ShortDescription": "Up to 22 ppm color or 24 ppm monochrome A4/letter, powerful 500 MHz processor and 128MB of memory",
+		"Name": "Laser Basic"
+	},
+	{
+		"ProductId": "HT-1042",
+		"Category": "PR",
+		"MainCategory": "SC",
+		"SupplierName": "Alpha Printers",
+		"Weight": "17",
+		"WeightUnit": "KG",
+		"ShortDescription": "Print up to 25 ppm letter and 24 ppm A4 color or monochrome, with a first-page-out-time of less than 13 seconds for monochrome and less than 15 seconds for color",
+		"Name": "Laser Allround"
+	},
+	{
+		"ProductId": "HT-1050",
+		"Category": "PR",
+		"MainCategory": "SC",
+		"SupplierName": "Alpha Printers",
+		"Weight": "3",
+		"WeightUnit": "KG",
+		"ShortDescription": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB, Ethernet",
+		"Name": "Ultra Jet Super Color"
+	},
+	{
+		"ProductId": "HT-1051",
+		"Category": "PR",
+		"MainCategory": "SC",
+		"SupplierName": "Printer for All",
+		"Weight": "1.9",
+		"WeightUnit": "KG",
+		"ShortDescription": "1000 dpi x 1000 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB - excellent dimensions for the small office",
+		"Name": "Ultra Jet Mobile"
+	},
+	{
+		"ProductId": "HT-1052",
+		"Category": "PR",
+		"MainCategory": "SC",
+		"SupplierName": "Printer for All",
+		"Weight": "18",
+		"WeightUnit": "KG",
+		"ShortDescription": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB2.0, Ethernet",
+		"Name": "Ultra Jet Super Highspeed"
+	},
+	{
+		"ProductId": "HT-1055",
+		"Category": "PR",
+		"MainCategory": "SC",
+		"SupplierName": "Printer for All",
+		"Weight": "6.3",
+		"WeightUnit": "KG",
+		"ShortDescription": "1000 dpi x 1000 dpi - up to 16 ppm (mono) / up to 15 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 1200dpi x 2400dpi)",
+		"Name": "Multi Print"
+	},
+	{
+		"ProductId": "HT-1056",
+		"Category": "PR",
+		"MainCategory": "SC",
+		"SupplierName": "Printer for All",
+		"Weight": "4.3",
+		"WeightUnit": "KG",
+		"ShortDescription": "1200 dpi x 1200 dpi - up to 25 ppm (mono) / up to 24 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 2400dpi x 4800dpi, high resolution)",
+		"Name": "Multi Color"
+	}
+]
+}
